@@ -1,3 +1,5 @@
+# Projeto 1:
+Este projeto tem como objetivo realizar um pequeno registro de usuário e sortear um cartão de compras.
 ## Funcionamento do código:
 1. Solicita o **nome do usuário**;
 2. Solicita a **idade**;
